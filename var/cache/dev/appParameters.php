@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'database',
+    'database_port' => '3306',
+    'database_name' => 'prestashop',
+    'database_user' => 'root',
+    'database_password' => 'Test1234!',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '8fSVkx6VLgEEQT7WrMV3hx8JgiyWRMEYdhqIFZ7ge59dxOYWJMgNoxBTIrimzGy7',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-01-17',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 's38LswQB8jUD6Kcg0jEe0oKoMNPBhhPdZXpYr7HRhOgIWNcnF9Mnq9x9fznuikb1',
+    'cookie_iv' => 'COCFEDbcVPJZQwhFcTIRzOnAceUKajAa',
+    'new_cookie_key' => 'def00000c11e6b78befe142c35325ff1bff43e5575853263bb5386865ef28a5472f89c10e122ddb0fe86439009f40b80e0e75176eb50fb340e8fb2c791b0773be2f0c562',
+  ),
+);
